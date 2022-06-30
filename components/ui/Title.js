@@ -1,5 +1,5 @@
 import { Text, View, StyleSheet } from 'react-native';
-import Color from '../constants/color';
+import Color from '../../constants/color';
 
 function Title({children}){
 
